@@ -1,0 +1,26 @@
+Command	Description
+
+ls	List files in current directory
+ls -l	Long listing (permissions, size, etc)
+ls -a	Show hidden files
+pwd	Print current directory path
+cd : Change directory
+cd ..	Go back one directory
+mkdir :Create new directory
+touch : Create empty file
+rm  : Delete file
+rm -r: Delete directory and its contents
+cp  : Copy file or directory
+mv  : Move or rename file or directory
+cat : Display file contents
+nano: Edit file with nano editor
+vim : Edit file with vim editor
+clear :	Clear terminal screen
+top :	Show running processes
+ps aux : Show all running processes
+kill : Kill process by PID
+htop : Interactive process viewer (if installed)
+apt update	Update package lists
+apt upgrade	Upgrade installed packages
+apt install : Install package
+apt remove : Remove package

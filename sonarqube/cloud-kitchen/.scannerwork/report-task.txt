@@ -1,0 +1,6 @@
+projectKey=cloud-kitchen
+serverUrl=http://localhost:9000
+serverVersion=25.6.0.109173
+dashboardUrl=http://localhost:9000/dashboard?id=cloud-kitchen
+ceTaskId=3cb31970-8dda-420a-9b13-249e139f3e3e
+ceTaskUrl=http://localhost:9000/api/ce/task?id=3cb31970-8dda-420a-9b13-249e139f3e3e
